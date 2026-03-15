@@ -1,0 +1,17 @@
+{
+  "name": "younesse-plugins",
+  "metadata": {
+    "description": "Younesse's Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Younesse Kaddar"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-deep-explanatory-output-style",
+      "description": "First-principles explanations grounded in education research",
+      "source": "./claude-code-deep-explanatory-output-style"
+    }
+  ]
+}

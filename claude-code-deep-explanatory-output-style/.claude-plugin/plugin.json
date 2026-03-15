@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-deep-explanatory-output-style",
+  "description": "Deep pedagogical insights grounded in education research. Turns Claude Code into a teaching assistant that explains from first principles",
+  "version": "1.0.0",
+  "author": {
+    "name": "Younesse Kaddar"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/youqad/claude-plugins/tree/main/claude-code-deep-explanatory-output-style",
+  "repository": "https://github.com/youqad/claude-plugins.git"
+}
